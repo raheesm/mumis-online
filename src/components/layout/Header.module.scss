@@ -1,0 +1,16 @@
+.header{
+    padding: 1em 0;
+    nav{
+        display: flex;
+        justify-content: space-between;
+        ul{
+            display: flex;
+            gap: 2em;
+            li{
+                a{
+                    font-weight: normal;
+                }
+            }
+        }
+    }
+}

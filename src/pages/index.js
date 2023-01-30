@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
    <main>
-    
+    <h1>Welcome to Mukkam Mills Online</h1>
    </main>
     </>
   )
